@@ -7,11 +7,11 @@
 <br>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=miikudev&theme=react" alt="Mikudev GitHub stats" />
+  <img height="150" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=GuiIhermeFontes&theme=react" alt="Mikudev GitHub stats" />
 </p>
   
 <p align="center">
-  <a href="https://stickershop.line-scdn.net/stickershop/v1/product/683/LINEStorePC/main.png?v=13">
-    <img src="https://stickershop.line-scdn.net/stickershop/v1/product/683/LINEStorePC/main.png?v=13" width="128px" height="128px" alt="HelloKittyByeBye">
+  <a href="https://e7.pngegg.com/pngimages/458/912/png-clipart-darwin-watterson-gumball-watterson-anais-watterson-animated-film-cartoon-network-superstar-soccer-gumball-television-orange-thumbnail.png">
+    <img src="https://e7.pngegg.com/pngimages/458/912/png-clipart-darwin-watterson-gumball-watterson-anais-watterson-animated-film-cartoon-network-superstar-soccer-gumball-television-orange-thumbnail.png" width="128px" height="128px" alt="HelloKittyByeBye">
   </a>
 </p>
