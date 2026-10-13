@@ -1,11 +1,3 @@
-```python
-print("Wsp!👋")
-```
-
-<p align="center">
-  <img src="https://i.giphy.com/vRHKYJFbMNapxHnp6x.webp"/>
-</p>
-
 <div align="center">
   <h2>My Skills</h2>
   <a href="https://skillicons.dev">
@@ -13,10 +5,6 @@ print("Wsp!👋")
   </a>
 </div>
 <br>
-
-```javascript
-console.log("Portfolio: https://miikudev.vercel.app")
-```
 
 <p align="center">
   <img height="150" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=miikudev&theme=react" alt="Mikudev GitHub stats" />
